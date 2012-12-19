@@ -1,6 +1,11 @@
 
 #view-on-github span {
   background: transparent url(http://meagh.github.com/images/octocat-icon.png) 2px 50% no-repeat;
-
 }
 
+#btndiv {
+  display:block;
+  text-align: center;
+
+	
+}
